@@ -49,7 +49,7 @@ const PRESENTATIONS = [
     status: "Available",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-    href: "https://docs.google.com/presentation/d/1X9v5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z/edit?usp=sharing&ouid=105922960506005686013&rtpof=true&sd=true",
+    href: "https://docs.google.com/presentation/d/1yGU-guB8W-6Ucm98dry_CueWubiO1zQM/edit?usp=drivesdk&ouid=105922960506005686013&rtpof=true&sd=true",
   },
 ];
 
